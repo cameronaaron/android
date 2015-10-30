@@ -52,7 +52,7 @@ android {
 
     defaultConfig {
         minSdkVersion 9
-        targetSdkVersion 22
+        targetSdkVersion 23
         versionCode 4
         versionName "1.7.0-unstable"
         if(System.getenv("NIGHTLY_BUILD")) {
